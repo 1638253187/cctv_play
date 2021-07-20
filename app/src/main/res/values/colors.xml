@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="AllBack">#EAEAEA</color>
+
+    <color name="colorWhite">#fff</color>
+    <color name="colorToolbar">#A2DB2727</color>
+    <color name="search_grey_gone">#cccccc</color>
+    <color name="colorWhite_touch">#fff</color>
+    <!--通用背景色-->
+    <color name="common_bg">@color/colorWhite</color>
+    <color name="grey_bg">#EDEDED</color>
+
+    <color name="while_most_color">#e4e4e4</color>
+
+    <color name="tv_bar">#C9C5C5</color>
+    <color name="touming">#00000000</color>
+
+    <color name="orj">#DFC7B022</color>
+
+    <color name="gold">#BDD9FF00</color>
+
+    <color name="bg_gray">#DF292828</color>
+
+    <color name="colorBlue">#F21F62F0</color>
+
+    <color name="transparent_half">#A0545454</color>
+
+    <color name="pink">#81C784</color>
+    <color name="comment_text_two">#8D8C8C</color>
+
+    <color name="red">#FF0000</color>
+    <color name="bg_colol">#EFEFEF</color>
+    <color name="group_blue">#cc33b5e5</color>
+    <color name="text_gray">#666666</color>
+    <color name="text_black">#ff000000</color>
+    <color name="group_text">#666666</color>
+</resources>

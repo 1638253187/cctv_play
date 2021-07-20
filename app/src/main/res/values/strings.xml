@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">卫星电视</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">加载中</string>
+    <string name="about_us">关于作者</string>
+    <string name="about_connect">QQ: 1638253187</string>
+    <string name="sure">退出</string>
+    <string name="cancel">继续播放</string>
+</resources>

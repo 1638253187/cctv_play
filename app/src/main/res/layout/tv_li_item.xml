@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/qb_px_2"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite"
+        android:padding="@dimen/qb_px_10">
+
+        <com.zkzj.rtmp_terminal.view.CircleImagesView
+            android:id="@+id/iv_cctv"
+            android:layout_width="@dimen/qb_px_25"
+            android:layout_height="@dimen/qb_px_25"
+            android:src="@mipmap/cctv" />
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/qb_px_5"
+            android:layout_marginTop="@dimen/qb_px_4"
+            android:layout_toRightOf="@+id/iv_cctv"
+            android:textStyle="bold"
+            android:text="CCTV-1"
+            android:textSize="@dimen/qb_px_15" />
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
